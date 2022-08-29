@@ -2,4 +2,4 @@
 
 
 #### 1. Email Application
-##### This project is to create a new email for account for new hires.
+##### This project is to create a new email account for new hires.
