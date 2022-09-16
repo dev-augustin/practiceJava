@@ -10,8 +10,6 @@ public class BankAccountApp {
         System.out.println("*******************");
  checkAcc1.showInfo();
 
-
-
 //
 // savingAcc1.deposit(5000);
 // savingAcc1.withdraw(100);
